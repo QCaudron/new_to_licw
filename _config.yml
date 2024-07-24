@@ -1,5 +1,5 @@
 # remote_theme: jekyll/minima
-remote_theme: poole/hyde
+remote_theme: just-the-docs/just-the-docs
 
 name: New to LICW
 title: New to LICW
