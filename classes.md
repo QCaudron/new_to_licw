@@ -5,7 +5,7 @@ permalink: /classes
 nav_order: 2
 ---
 
-<h1 style="font-weight: bold;" id="classes-at-licw">Classes at LICW</h1>
+# Classes at LICW
 
 
 ## Which classes should I attend?
