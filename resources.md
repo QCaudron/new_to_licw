@@ -5,7 +5,8 @@ permalink: /resources
 nav_order: 3
 ---
 
-# Club Resources
+<h1 style="font-weight: bold;" id="club-resources">Club Resources</h1>
+
 
 The club has a treasure trove of resources available to members on our Groups.io and in our club Dropbox.
 

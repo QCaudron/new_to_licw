@@ -5,7 +5,8 @@ permalink: /zoom
 nav_order: 4
 ---
 
-# Setting up Zoom
+<h1 style="font-weight: bold;" id="setting-up-zoom">Setting up Zoom</h1>
+
 
 We use Zoom for all of our classes. Zoom does some clever audio processing to quiet background noise, but this interferes with the Morse code you'll be sending in class. To make sure your code is heard clearly, you'll need to adjust your Zoom settings.
 

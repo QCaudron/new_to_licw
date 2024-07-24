@@ -5,7 +5,7 @@ permalink: /
 nav_order: 1
 ---
 
-# New to the LICW? Start here!
+<h1 style="font-weight: bold;">New to LICW? Start Here!</h1>
 
 Welcome to the Long Island CW Club! We're glad you're here. This website is designed to help you get started with the club as quickly as possible.
 
