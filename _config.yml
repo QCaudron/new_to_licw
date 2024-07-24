@@ -1,0 +1,24 @@
+# remote_theme: jekyll/minima
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+name: New to LICW
+title: New to LICW
+# description: Science, 
+
+author: 
+  name: Quentin K7DRQ
+  email: quentincaudron@gmail.com
+
+navbar-links:
+  Home: /
+  The Classes: /classes
+  Club Resources: /resources
+  Setting up Zoom: /zoom
+
+nav_exclude:
+  - index.md
+  - README.md
+  - CNAME
+
+exclude:
+  - README.md
