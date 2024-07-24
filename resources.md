@@ -10,6 +10,16 @@ nav_order: 3
 The club has a treasure trove of resources available to members on our Groups.io and in our club Dropbox.
 
 
+## The Morse Practice Page (MPP)
+
+The [Morse Practice Page](https://longislandcw.github.io/morsebrowser/) is a great tool to practice your Morse code skills between classes. A user guide is available on the [LICW Club website](https://longislandcwclub.org/academic-downloads/).
+
+
+## Student and Instructor Guide
+
+The [LICW Club website's Academic Downloads](https://longislandcwclub.org/academic-downloads/) section contains the Student and Instructor Guide, as well as QSO protocol documents and the Morse Practice Page users guide.
+
+
 ## Groups.io
 
 When you join the LICW, you will be invited to join [our Groups.io email reflector](https://groups.io/g/LongIslandCWClub/topics). This is where we send out announcements, and where you can ask questions and get help from other members.

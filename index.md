@@ -17,7 +17,7 @@ What are the different classes? When do they run? How can I get to them?
 
 ## [Club Resources](/resources.md)
 
-The club has a treasure trove of resources available to members in our club Dropbox.
+Where can I find links, emails, class schedules, recordings, guides and tutorials, and more?
 
 
 ## [Setting up Zoom](/zoom.md)
