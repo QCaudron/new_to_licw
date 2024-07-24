@@ -1,24 +1,39 @@
-# remote_theme: jekyll/minima
 remote_theme: just-the-docs/just-the-docs
 
 name: New to LICW
 title: New to LICW
-# description: Science, 
+description: New to the LICW Club? Start here!
+# url: https://newtolicw.org
 
 author: 
   name: Quentin K7DRQ
   email: quentincaudron@gmail.com
 
+nav_enabled: true
 navbar-links:
   Home: /
   The Classes: /classes
   Club Resources: /resources
   Setting up Zoom: /zoom
-
 nav_exclude:
   - index.md
   - README.md
   - CNAME
+nav_external_links:
+  - title: LICW Website
+    url: https://longislandcwclub.org/
+    hide_icon: true
+    opens_in_new_tab: true
+
+logo: "https://longislandcwclub.org/wp-content/uploads/2019/04/CW-Club-logo-clear400-300x300.png"
+
+search_enabled: true
+
+footer_content: "© 2024 Long Island CW Club. All rights reserved."
+
+gh_edit_link: false
+
+
 
 exclude:
   - README.md
