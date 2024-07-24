@@ -2,8 +2,7 @@
 title: Classes at LICW
 layout: default
 permalink: /classes
+nav_order: 2
 ---
-
-# New to the LICW? Start here!
 
 We have many classes.
