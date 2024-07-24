@@ -28,7 +28,7 @@ The [LICW Club website's Academic Downloads](https://longislandcwclub.org/academ
 
 ## Announcements
 
-**Weekly schedule :** Every week, Rick W8KO sends out an email with the week's schedule and any other important announcements. This will always be pinned to the top of the [Groups.io](https://groups.io/g/LongIslandCWClub/topics), and is called **Class & Forum Schedule for next week**.
+**Weekly schedule :** Every week, Rick W8KO sends out an email with the week's schedule and any other important announcements. This will always be pinned to the top of the [Groups.io](https://groups.io/g/LongIslandCWClub/topics), and is called *Class & Forum Schedule for next week*.
 
 **Zoom links :** Also pinned is an email from Dave VK5PL with information on [how to join classes](https://groups.io/g/LongIslandCWClub/topic/how_to_join_classes/99048520). Here, you'll find links to the Zoom rooms for each class.
 
