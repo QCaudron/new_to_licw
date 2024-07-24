@@ -3,6 +3,7 @@ remote_theme: just-the-docs/just-the-docs
 name: New to LICW
 title: New to LICW
 description: New to the LICW Club? Start here!
+url: http://quentincaudron.com/new_to_licw/
 # url: https://newtolicw.org
 
 author: 
@@ -10,11 +11,6 @@ author:
   email: quentincaudron@gmail.com
 
 nav_enabled: true
-navbar-links:
-  Home: /
-  The Classes: /classes
-  Club Resources: /resources
-  Setting up Zoom: /zoom
 nav_exclude:
   - index.md
   - README.md
