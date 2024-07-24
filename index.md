@@ -10,7 +10,7 @@ nav_order: 1
 Welcome to the Long Island CW Club! We're glad you're here. This website is designed to help you get started with the club as quickly as possible.
 
 
-## [Classes](/classes/index.md)
+## [Classes](/classes.md)
 
 What are the different classes? When do they run? How can I get to them?
 
