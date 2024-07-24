@@ -27,7 +27,7 @@ When you join the LICW, you will be invited to join [our Groups.io email reflect
 
 You can set your [email preferences](https://groups.io/g/LongIslandCWClub/editsub) to receive all emails or daily summaries. 
 
-#### Announcements
+### Announcements
 
 Every week, Rick W8KO sends out an email with the week's schedule and any other important announcements. This will always be pinned to the top of the Groups.io, and is called **Class & Forum Schedule for next week**.
 

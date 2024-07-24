@@ -33,7 +33,7 @@ Classes take place over Zoom. The club runs four Zoom rooms, imaginatively named
 You can find [our full calendar here](https://longislandcwclub.org/events/). Each week is the same, with the same classes running at the same time every day, in the same Zoom room.
 
 
-#### Beginners classes
+### Beginners classes
 
 Our Beginners Carousel classes aim to help you learn how to learn CW. We introduce three new letters each week. The first half-hour of each class is spent on these three letters, and the second half-hour brings in letters from the previous two weeks.
 
