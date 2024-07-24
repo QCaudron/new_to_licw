@@ -24,12 +24,10 @@ nav_external_links:
 logo: "https://longislandcwclub.org/wp-content/uploads/2019/04/CW-Club-logo-clear400-300x300.png"
 
 search_enabled: true
+search:
+  heading_level: 3
+  previews: 5
 
 footer_content: "© 2024 Long Island CW Club. All rights reserved."
 
 gh_edit_link: false
-
-
-
-exclude:
-  - README.md
